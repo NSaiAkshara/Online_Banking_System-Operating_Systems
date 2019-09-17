@@ -1,0 +1,12 @@
+Admin name:A1
+Password:a1
+Your userID is : 100
+
+Your userID is : 100
+user_id = N1
+password = n1
+
+Your userID is : 100
+user_id1 = J1
+user_id2 = J2
+password = j
